@@ -1,0 +1,6 @@
+{
+  "name": "Artha Institutional — Indian Market & Regulatory Research",
+  "description": "Automated institutional equity research and regulatory circular aggregator for Indian market intermediaries, featuring live SEBI, CERC, Railway Board, and MeitY policy tracking, valuation stress-testing, and brief fact-checking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
